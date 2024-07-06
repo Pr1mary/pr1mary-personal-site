@@ -1,0 +1,18 @@
+
+.object-container {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.object-card {
+    width: 30rem;
+}
+
+.object-card-content {
+    text-align: justify;
+}
+
