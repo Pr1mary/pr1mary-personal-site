@@ -16,3 +16,29 @@
     text-align: justify;
 }
 
+.custom-section {
+    padding-top: 5rem;
+}
+
+.custom-intro-area {
+    margin-top: 2rem;
+}
+
+.custom-connect-link {
+    margin-right: 2rem;
+}
+
+.custom-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    margin: 10px;
+}
+
+.custom-disabled {
+    color: grey;
+    pointer-events: none;
+}
+
